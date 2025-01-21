@@ -7,6 +7,7 @@ one for all recipes and the second for recipe details and the third one for abou
 
 Make sure to install dependencies:
 
+```bash
 # npm
 npm install
 
@@ -14,6 +15,7 @@ npm install
 
 Start the development server on `http://localhost:3000`:
 
+```bash
 # npm
 npm run dev
 ```
