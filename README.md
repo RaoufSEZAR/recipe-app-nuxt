@@ -15,10 +15,9 @@ npm install
 
 Start the development server on `http://localhost:3000`:
 
-```bash
-# npm
-npm run dev
 ```
+# Run the project
+npm run dev
 
 ![Image](https://github.com/user-attachments/assets/36b155a6-7959-457b-b57b-660f51e8162c)
 ![Image](https://github.com/user-attachments/assets/e0238e8f-9b35-4338-965d-47840be957d5)
