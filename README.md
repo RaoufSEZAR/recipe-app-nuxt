@@ -1,7 +1,7 @@
 Recipe application created using Nuxt.js to view recipes and Ingredients with 3 page 
 one for all recipes and the second for recipe details and the third one for about page
 
- using **tailwind, ECMA6, Rest API,Javascript, Nuxt.js**
+ using **Nuxt.js, Vue.js, Tailwind, ECMA6, Rest API,Javascript**
  
 ## Setup
 
